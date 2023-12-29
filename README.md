@@ -1,0 +1,2 @@
+I use dataset from https://www.kaggle.com/datasets/unsdsn/world-happiness to find out what factor increases happiness score in the world. I used data from the top 30 happiest country from 2015-2017 to find how each factor specifically affect happiness score in these top 30 countries.
+since it was not a large amount of data i used sheets to clean it and used gooogle big-query to analyze the data and then sent it of to tableau for vizualization.
